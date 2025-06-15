@@ -6,6 +6,12 @@
   <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
 </p>
 
+<p align="center">
+  <a href="https://daniela02s.github.io/lazy-loading/" target="_blank">
+    <strong>➡️ Acessar a demonstração ao vivo</strong>
+  </a>
+</p>
+
 ## 📝 Descrição
 
 Este é um projeto simples para demonstrar a técnica de **Lazy Loading** (carregamento preguiçoso) de imagens utilizando a API nativa do navegador **`IntersectionObserver`**. O objetivo é melhorar a performance de páginas web, carregando as imagens apenas quando elas estão prestes a entrar na área visível do usuário (viewport).
